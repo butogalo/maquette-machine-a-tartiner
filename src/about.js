@@ -28,7 +28,7 @@ registerComponent('presentation-la-machine-et-cie', {
             [
                 {
                     name : 'Henri Gallot-Lavallée',
-                    photo: '/img/avatars/henri.jpg',
+                    photo: 'img/avatars/henri.jpg',
                     bio  : '\
                         Né au Mans en 1962, Henri Gallot-Lavallée entame des études\
                         d\'économie politique à Paris VIII, mais très vite il décide de\
@@ -46,7 +46,7 @@ registerComponent('presentation-la-machine-et-cie', {
                 },
                 {
                     name : 'Mathieu Lamour',
-                    photo: '/img/avatars/mathieu.jpg',
+                    photo: 'img/avatars/mathieu.jpg',
                     bio  : '\
                         Mathieu a passé son enfance entre le Pays Basque et la région Poitou Charente.\
                         Sympathique et débrouillard, il concrétise des études dans le tourisme pour\
@@ -61,7 +61,7 @@ registerComponent('presentation-la-machine-et-cie', {
                 },
                 {
                     name : 'Serenella Coverti',
-                    photo: '/img/avatars/serenella.jpg',
+                    photo: 'img/avatars/serenella.jpg',
                     bio  : '\
                         Serenella travaille en France de 1985 à 1992 avec les groupes de théâtre :\
                         Royal De Luxe, Katertone Ets, Circo Archaos et Monique Tendence.\
@@ -76,7 +76,7 @@ registerComponent('presentation-la-machine-et-cie', {
                 },
                 {
                     name : 'Frida Gallot-Lavallée',
-                    photo: '/img/avatars/frida.jpg',
+                    photo: 'img/avatars/frida.jpg',
                     bio  : '\
                          Née en 1993, Frida vient d\'obtenir son baccalauréat économique et social.\
                          Baignée depuis sa plus tendre enfance dans l\'univers artistique de ses parents,\
