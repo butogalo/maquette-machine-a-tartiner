@@ -58,7 +58,7 @@ registerComponent('menu', {
             createElement('img', {
 
                 className: 'menu-logo',
-                src: '/img/menu.svg',
+                src: 'img/menu.svg',
 
                 onclick()
                 {
@@ -155,9 +155,8 @@ registerComponent('banner', {
         let logo =
             createElement('img', {
 
-                src: '/img/iconMachine2.svg',
-                id: 'logo',
-                width: '110'
+                src: 'img/iconMachine2.svg',
+                id: 'logo'
                 
             });
         
@@ -184,20 +183,12 @@ registerComponent('banner', {
 registerComponent('first-pannel', {
     render()
     {
-        let image =
-            createElement('img', {
-
-                src: '/img/header.jpg'
-
-            });
-
         let pannel =
             createElement('div', {
 
                 id: 'first-pannel',
 
-            },
-            []);
+            });
         
         return pannel;
     }
