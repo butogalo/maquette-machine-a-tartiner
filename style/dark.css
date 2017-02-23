@@ -14,7 +14,7 @@ html, body
   top: 0;
   bottom: 0;
   
-  background-image: url('img/header.jpg');
+  background-image: url('https://upsidedownunicorn.github.io/maquette-machine-a-tartiner/img/header.jpg');
   background-repeat: no-repeat;
   background-attachment:  fixed;
   background-size: 100% Auto;
